@@ -1,3 +1,3 @@
 # PongWithBot
 
-Pong with a bot fore gameplay
+Pong with a bot for gameplay
